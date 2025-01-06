@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="cW6P8g2X35dn0sbMUSKr">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eF1JfKASw2XI8HcAYFnk-2" target="eF1JfKASw2XI8HcAYFnk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="465" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eF1JfKASw2XI8HcAYFnk-7" target="eF1JfKASw2XI8HcAYFnk-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-4" value="Ano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="eF1JfKASw2XI8HcAYFnk-3">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
+            <mxPoint x="-35" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eF1JfKASw2XI8HcAYFnk-7" target="eF1JfKASw2XI8HcAYFnk-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-6" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="eF1JfKASw2XI8HcAYFnk-5">
+          <mxGeometry x="-0.128" y="-3" relative="1" as="geometry">
+            <mxPoint x="58" y="-37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-7" value="Existuje&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;KNM&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;i&gt;(pro daný strom, REGCISLOZADOSTI, JI, ...)&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;s příznaky&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;PO, PO*, V, V*&lt;/b&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-8" value="Chyby D031-D037 se&amp;nbsp;&lt;div&gt;nevyhodnocují&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="410" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-9" value="Vezme se&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;nejnovější KNM&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;s příznaky&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;V, V*, PO, PO*&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="411" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-10" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Zjištěná KNM se (při chybě D031-D037) vrátí v elementu:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;STROM/CHYBA/DOPLNKOVAINFO/CHYBA_KNM_CISLO.&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="471" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eF1JfKASw2XI8HcAYFnk-11" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;2) Vyhodnocení &quot;vítězné&quot; KNM pro chyby D031-D037&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="80" width="370" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

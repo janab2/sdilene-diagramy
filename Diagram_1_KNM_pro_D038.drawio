@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="bNCsUeAV-b57NKfiwM2c">
+    <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYBgHtMGrmPmqzuvCU_k-3" target="CYBgHtMGrmPmqzuvCU_k-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="465" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYBgHtMGrmPmqzuvCU_k-8" target="CYBgHtMGrmPmqzuvCU_k-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-5" value="Ano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBgHtMGrmPmqzuvCU_k-4">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
+            <mxPoint x="-17" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYBgHtMGrmPmqzuvCU_k-8" target="CYBgHtMGrmPmqzuvCU_k-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-7" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBgHtMGrmPmqzuvCU_k-6">
+          <mxGeometry x="-0.128" y="-3" relative="1" as="geometry">
+            <mxPoint x="39" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-8" value="&lt;font&gt;Existuje&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;KNM&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;i&gt;(pro daný strom, REGCISLOZADOSTI, JI, ...)&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;s příznakem&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;PO, PO*, V, V*&lt;/b&gt;?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBgHtMGrmPmqzuvCU_k-13" target="CYBgHtMGrmPmqzuvCU_k-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-10" value="Ano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBgHtMGrmPmqzuvCU_k-9">
+          <mxGeometry x="-0.6682" y="2" relative="1" as="geometry">
+            <mxPoint x="-58" y="103" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYBgHtMGrmPmqzuvCU_k-13" target="CYBgHtMGrmPmqzuvCU_k-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-12" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBgHtMGrmPmqzuvCU_k-11">
+          <mxGeometry x="0.0476" y="1" relative="1" as="geometry">
+            <mxPoint y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-13" value="&lt;font&gt;Existuje &lt;b&gt;novější &lt;/b&gt;KNM&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;s příznakem &lt;b&gt;PO40*&lt;/b&gt;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;kde &lt;b&gt;PL011 = NE&lt;/b&gt;?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="330" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYBgHtMGrmPmqzuvCU_k-18" target="CYBgHtMGrmPmqzuvCU_k-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-15" value="Ano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBgHtMGrmPmqzuvCU_k-14">
+          <mxGeometry x="-0.4667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYBgHtMGrmPmqzuvCU_k-18" target="CYBgHtMGrmPmqzuvCU_k-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-17" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBgHtMGrmPmqzuvCU_k-16">
+          <mxGeometry x="0.4545" y="-2" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-18" value="Existuje KNM&amp;nbsp;&lt;div&gt;s příznakem &lt;b&gt;PO40*&lt;/b&gt;?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="330" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-19" value="Vezme se nejnovější KNM&amp;nbsp;&lt;div&gt;s příznakem PO40*&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="206.88" y="590" width="156.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-20" value="Vezme se nejnovější KNM&amp;nbsp;&lt;div&gt;s příznaky V, V*, PO, PO*&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="590" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1) Vyhodnocení &quot;vítězné&quot; KNM pro chybu D038&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-22" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Zjištěná KNM se použije pro vyhodnocení chyby D038.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent;&quot;&gt;&lt;span&gt;Pokud v dané KNM bude otázka PL011=NE, vrátí se chyba D038 a příslušná KNM&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent;&quot;&gt;&lt;span&gt;v elementu:&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;STROM/CHYBA/DOPLNKOVAINFO/CHYBA_KNM_CISLO&lt;span style=&quot;font-weight: normal;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent;&quot;&gt;Současně se v&lt;/span&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent;&quot;&gt;&amp;nbsp;elementu&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;STROM_KOLIZE_40M&lt;span style=&quot;font-weight: normal;&quot;&gt; vrátí seznam kolizních stromů převzatý&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;z dané KNM (uvedené u chyby D038).&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;Pro každý kolizní strom se zjistí poloha z KNM dle diagramu 3)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;a tato poloha/KNM bude&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;a) zaslaná v elementu:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- &lt;/span&gt;S&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;TROM/CHYBA/DOPLNKOVAINFO/STROM_KOLIZE_40M/PUVOD_POLOHY&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- &lt;/span&gt;S&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;TROM/CHYBA/DOPLNKOVAINFO/STROM_KOLIZE_40M/&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;POLOHA_KNM_CISLO&lt;span style=&quot;font-weight: normal;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;b) uložená ve vizualizaci SWK.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="678" width="510" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-23" value="Vezme se nejnovější KNM&amp;nbsp;&lt;div&gt;s příznakem PO40*, kde PL011 = NE&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="395" y="590" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-24" value="KNM pro daný strom neexistuje" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="490" width="50" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal;&quot;&gt;Chyba&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(51, 51, 51); font-weight: 400; text-align: center;&quot;&gt;D038 se nevyhodnocuje.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="52" y="651" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-27" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="684" as="sourcePoint" />
+            <mxPoint x="110" y="654" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBgHtMGrmPmqzuvCU_k-28" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1.95;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="683" as="sourcePoint" />
+            <mxPoint x="468" y="653" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
